@@ -1,6 +1,6 @@
 [package]
 name = "pq-bincode"
-version = "1.0.0-alpha.0"
+version = "1.0.0-alpha.2"
 authors = ["Aditya Kresna <aditya.kresna@outlook.co.id>"]
 edition = "2018"
 license-file = "LICENSE"
